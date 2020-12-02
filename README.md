@@ -5,4 +5,4 @@ It checks all the upper cases, lower cases and even title words.
 If the user has entered wrong data it finds similar words and prompts it to user if they wanted to enter the given word in dictionary.
 
 Run Command:-
-python3 Dictionary.py
+python3 dictionary.py
